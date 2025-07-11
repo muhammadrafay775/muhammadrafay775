@@ -1,5 +1,5 @@
 
-<<h1 align="center">Hi 👋, I'm Muhammad Rafay</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Rafay</h1>
 <h3 align="center">Modern Web & App Developer | Saylani Student | Future Mern Stack Developer 🚀</h3>
 
 <p align="center">
