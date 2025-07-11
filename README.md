@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <<h1 align="center">Hi 👋, I'm Muhammad Rafay</h1>
 <h3 align="center">Modern Web & App Developer | Saylani Student | Future Mern Stack Developer 🚀</h3>
@@ -49,8 +48,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/yourname" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img align="center" src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="itxrafayrafaysheikh@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/muhammadrafay775/my-portfolio"><img align="center" src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
