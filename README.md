@@ -3,7 +3,7 @@
 <h3 align="center">Modern Web & App Developer | Saylani Student | Future Mern Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Front-end+Developer;Tailwind+CSS+Expert;Learning+JavaScript;Building+Netflix+Clone+%F0%9F%8E%9F;Future+Mern+Stack+Developer+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Front-end+Developer;Tailwind+CSS+Expert;JavaScript+Expert;Building +Rock+Paper+Scissor+Game;Building+Netflix+Clone+%F0%9F%8E%9F;Future+Mern+Stack+Developer+%F0%9F%92%B0" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Netflix Clone,Daraz Clone,Amazon Clone,Ali Express Clone & Perfumes Web Clone**
-- 🌱 I’m learning **JavaScript**
+- 🌱 I’m Expert Of **JavaScript**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 💬 Ask me about **HTML, CSS, Responsive Design**
 - 📫 Reach me at: **itxrafayrafaysheikh@gmail.com**
@@ -35,11 +35,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadrafay&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafay&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=muhammadrafay&theme=dracula"/>
 </p>
 
 ---
