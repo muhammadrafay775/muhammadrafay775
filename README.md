@@ -3,7 +3,7 @@
 <h3 align="center">Modern Web & App Developer | Saylani Student | Future Mern Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Front-end+Developer;Tailwind+CSS+Expert;JavaScript+Expert;Building +Rock+Paper+Scissor+Game;Building+Netflix+Clone+%F0%9F%8E%9F;Future+Mern+Stack+Developer+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Front-end+Developer;Tailwind+CSS+Expert;JavaScript+Expert;Building +Rock+Paper+Scissor;Building+Netflix+Clone+%F0%9F%8E%9F;Future+Mern+Stack+Developer+%F0%9F%92%B0" alt="Typing SVG" />
 </p>
 
 ---
