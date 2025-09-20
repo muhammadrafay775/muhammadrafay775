@@ -37,30 +37,30 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadrafay&show_icons=true&theme=radical" />
 </p>
 
+---
 
-<div dir="rtl" align="right">
+<div dir="ltr" align="left">
 
-# 💻 محمد رفیع
+# 💻 Muhammad Rafay
 
-## 🎓 سرٹیفکیٹ
+## 🎓 Certificate
 
-یہ سرٹیفکیٹ مجھے **Saylani Mass Training Programme** کے تحت دیا گیا:
+This certificate was awarded to me under the **Saylani Mass Training Programme**:
 
-![Saylani Certificate](images/certificate.jpg)
+![Saylani Certificate]("C:\Users\Muhammad Rafay\Pictures\WhatsApp Image 2025-09-20 at 11.21.53_3b8f0472.jpg")
 
-### تفصیل:
-- **ایونٹ:** Saylani Mega IT Entrance Exam - 2025  
-- **مقام:** عبدالستار ہاکی اسٹیڈیم، کراچی  
-- **تاریخ:** 31 اگست 2025  
-- **اعزاز:** Pakistan's Grand IT Revolution میں رضاکار کی حیثیت سے شرکت
+### Details:
+- **Event:** Saylani Mega IT Entrance Exam - 2025  
+- **Venue:** Abdul Sattar Hockey Stadium, Karachi  
+- **Date:** 31st August 2025  
+- **Honor:** Participation as a volunteer in Pakistan's Grand IT Revolution  
 
 ---
 
-### 📫 رابطہ کریں
-مزید معلومات کے لیے GitHub پر رابطہ کریں۔
+### 📫 Contact
+For more information, please reach out to me on GitHub.
 
 </div>
-
 ---
 
 ## 🔗 Connect with me
