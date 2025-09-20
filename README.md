@@ -57,9 +57,6 @@ This certificate was awarded to me under the **Saylani Mass Training Programme**
 
 ---
 
-### 📫 Contact
-For more information, please reach out to me on GitHub.
-
 </div>
 ---
 
