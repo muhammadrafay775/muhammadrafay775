@@ -39,16 +39,15 @@
 
 ---
 
-<div dir="ltr" align="left">
-
 # 💻 Muhammad Rafay
 
 ## 🎓 Certificate
 
 This certificate was awarded to me under the **Saylani Mass Training Programme**:
 
-![Saylani Certificate](https://github.com/username/repo-name/blob/main/images/certificate.jpg?raw=true
-)
+![Saylani Certificate](https://github.com/username/repo-name/blob/main/images/certificate.jpg?raw=true)
+
+---
 
 ### Details:
 - **Event:** Saylani Mega IT Entrance Exam - 2025  
@@ -58,7 +57,6 @@ This certificate was awarded to me under the **Saylani Mass Training Programme**
 
 ---
 
-</div>
 ---
 
 ## 🔗 Connect with me
