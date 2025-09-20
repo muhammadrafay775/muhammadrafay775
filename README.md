@@ -47,7 +47,8 @@
 
 This certificate was awarded to me under the **Saylani Mass Training Programme**:
 
-![Saylani Certificate]("C:\Users\Muhammad Rafay\Pictures\WhatsApp Image 2025-09-20 at 11.21.53_3b8f0472.jpg")
+![Saylani Certificate](![WhatsApp Image 2025-09-20 at 11 21 53_3b8f0472](https://github.com/user-attachments/assets/5b671a55-dd64-4766-8b4d-a2d728863df0)
+)
 
 ### Details:
 - **Event:** Saylani Mega IT Entrance Exam - 2025  
