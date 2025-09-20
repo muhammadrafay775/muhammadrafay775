@@ -48,6 +48,10 @@
 </p>
 
 ---
+<h1>Muhammad Rafay 💻</h1>
+<h2>Certificate 🎓</h2>
+
+<strong>Saylani Mass Training Programme</strong><p>کے تحت دیا گیا:یہ سرٹیفکیٹ مجھے</p>
 
 ## 💡 Quote of the Day
 
