@@ -48,10 +48,31 @@
 </p>
 
 ---
-<h1>Muhammad Rafay 💻</h1>
-<h2>Certificate 🎓</h2>
+ب
+<body style="font-family: Arial, sans-serif; direction: rtl; text-align: right;">
 
-<strong>Saylani Mass Training Programme</strong><p>کے تحت دیا گیا:یہ سرٹیفکیٹ مجھے</p>
+    <h1>💻 محمد رفیع</h1>
+
+    <h2>🎓 سرٹیفکیٹ</h2>
+
+    <p>یہ سرٹیفکیٹ مجھے <strong>Saylani Mass Training Programme</strong> کے تحت دیا گیا:</p>
+
+    <img src="images/certificate.jpg" alt="Saylani Certificate" style="max-width:100%; height:auto;">
+
+    <h3>تفصیل:</h3>
+    <ul>
+        <li>ایونٹ: Saylani Mega IT Entrance Exam - 2025</li>
+        <li>مقام: عبدالستار ہاکی اسٹیڈیم، کراچی</li>
+        <li>تاریخ: 31 اگست 2025</li>
+        <li>اعزاز: Pakistan's Grand IT Revolution میں رضاکار کی حیثیت سے شرکت</li>
+    </ul>
+
+    <hr>
+
+    <h3>📫 رابطہ کریں</h3>
+    <p>مزید معلومات کے لیے GitHub پر رابطہ کریں۔</p>
+
+    ---
 
 ## 💡 Quote of the Day
 
