@@ -37,6 +37,30 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadrafay&show_icons=true&theme=radical" />
 </p>
 
+
+<div dir="rtl" align="right">
+
+# 💻 محمد رفیع
+
+## 🎓 سرٹیفکیٹ
+
+یہ سرٹیفکیٹ مجھے **Saylani Mass Training Programme** کے تحت دیا گیا:
+
+![Saylani Certificate](images/certificate.jpg)
+
+### تفصیل:
+- **ایونٹ:** Saylani Mega IT Entrance Exam - 2025  
+- **مقام:** عبدالستار ہاکی اسٹیڈیم، کراچی  
+- **تاریخ:** 31 اگست 2025  
+- **اعزاز:** Pakistan's Grand IT Revolution میں رضاکار کی حیثیت سے شرکت
+
+---
+
+### 📫 رابطہ کریں
+مزید معلومات کے لیے GitHub پر رابطہ کریں۔
+
+</div>
+
 ---
 
 ## 🔗 Connect with me
@@ -49,31 +73,7 @@
 
 ---
 ب
-<body style="font-family: Arial, sans-serif; direction: rtl; text-align: right;">
-
-    <h1>💻 محمد رفیع</h1>
-
-    <h2>🎓 سرٹیفکیٹ</h2>
-
-    <p>یہ سرٹیفکیٹ مجھے <strong>Saylani Mass Training Programme</strong> کے تحت دیا گیا:</p>
-
-    <img src="images/certificate.jpg" alt="Saylani Certificate" style="max-width:100%; height:auto;">
-
-    <h3>تفصیل:</h3>
-    <ul>
-        <li>ایونٹ: Saylani Mega IT Entrance Exam - 2025</li>
-        <li>مقام: عبدالستار ہاکی اسٹیڈیم، کراچی</li>
-        <li>تاریخ: 31 اگست 2025</li>
-        <li>اعزاز: Pakistan's Grand IT Revolution میں رضاکار کی حیثیت سے شرکت</li>
-    </ul>
-
-    <hr>
-
-    <h3>📫 رابطہ کریں</h3>
-    <p>مزید معلومات کے لیے GitHub پر رابطہ کریں۔</p>
-
-    ---
-
+ 
 ## 💡 Quote of the Day
 
 > “Success usually comes to those who are too busy to be looking for it.” — Henry David Thoreau
