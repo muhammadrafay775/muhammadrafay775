@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFckEe71y5I2ww3OwN7ZEpJ1ZzL7hnOy5Q9A&s"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg.png
+"/>
 </p>
 
 ---
